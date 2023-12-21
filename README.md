@@ -1,2 +1,3 @@
 # penguin
-"happy Flappy Penguin" project made for the responsive web design certification on freeCodeCamp 
+"happy Flappy Penguin" project made for the responsive web design certification on freeCodeCamp
+author: samantha
